@@ -1,2 +1,2 @@
 **Minecraft Manager**
-- [Install & Use|install]
+- [[Install & Use|install]]
