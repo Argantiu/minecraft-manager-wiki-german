@@ -8,4 +8,4 @@ by Argantiu
 **Development**
 
 - [[How to Fork this?|development]]
-- [[How to Commit a Pull request?|pr-commit]]
+- [[How to commit a Pull request?|pr-commit]]
